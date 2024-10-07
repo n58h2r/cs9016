@@ -1,1 +1,20 @@
-# cs9016
+java c
+ACCT 6102 Financial Statement Analysis – Company Assessment (50 points)
+Firms communicate their results to users through its financial statements, and by developing an understanding about how companies report their economic transactions, financial statement users can better understand the results of those transactions in order to see how a company’s strategy translates to financial performance, analyze how a company has performed historically, and perform. a benchmarking analysis. Students may choose any company for this company assessment. This short write-up will consist of 4 parts:
+1) Review a company’s 10K and provide a summary of the company’s background and overall business strategy as well as their risk factors (in the 10K table of contents, there will be a section for both of these items – see below screenshot from Apple’s 10K). Also discuss whether the company’s business strategy and risk factors discussed in the 10K are currently quantitatively present on any of the financial statements.
+2) Review the company’s historical balance sheets and income statements for the past 5 years and quantitatively analyze any large variances as well as any areas of significant growth or decline. In addition to a general overview of your company historic financial performance, ways to quantitatively analyze the company historically in this section could include a trend analysis, common-size analysis, disaggregation of ROA or ROE, or cause-or-change analysis (i.e., choose at least one of these analysis methods that we used with Whole Foods during Week 2 of this course).
+3) Utilize the already calculated financial ratios via Mergent Online (see instructions below to access Mergent Online) to review and assess your chosen company’s ratios in four categories: profitability, liquidity, debt management (solvency), and asset management (turnover) ratios. Determine any reasons for large variances or trends by reviewing the company’s financial statements per the “Company Financials” tab i代 写ACCT 6102 Financial Statement AnalysisR
+代做程序编程语言n Mergent Online as well as any provided explanation in company’s 10K. Limit your analysis to the last 5 years. Do not feel the need to analyze every ratio, but aim to analyze about two ratios from each the above four categories.
+4) Compare your company’s financial ratios (from part 3 above) to two other competitors via the “Competitors” tab in Mergent Online. Consider why your chosen company may be underperforming or overperforming against its competitors.
+Please see below for instructions on how to access Mergent Online (provided free by the U of M). Please limit your written analysis to four pages, but you may use additional pages for exhibits if desired.
+To access Mergent Online: 
+1) Go to https://www.lib.umn.edu/business and click on “Company Information”
+2) Click on “Mergent Online (Business)” under the heading “Financial Information” (you will likely be asked for your U of M login info at this point) --> please note: there are two different Mergent databases, so please be sure you are using the one titled “Mergent Online (Business”)….NOT “Mergent Intellect (Business)” otherwise you will not get access to the correct information.
+3) Enter your chosen company under “Company Search”
+4) Click on your company and then click on the “Company Financials” tab to access the company’s reported financial statements. Click on “Ratios” (right under the “Company Financials” tab heading) to access their profitability, liquidity, debt management (solvency), and asset management (turnover) ratios. You can also access a company’s 10K in Mergent as well by clicking on the “Reports” tab.
+5) Click on the “Competitors” tab, and you then should see competitors auto-populate on this tab. Then select “click here” to create a competitor report, and follow the prompts to modify the report as you desire. To get ratio data for your competitors, go to “select data items,” scroll down to “company financials” and scroll down to “ratios.”
+
+
+
+         
+加QQ：99515681  WX：codinghelp  Email: 99515681@qq.com
